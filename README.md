@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
 
-![Banner Image](your_banner_image_url_here)
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | ALX Software Engineering Learner | Problem Solver</h3>
 
-## About Me 🚀
+---
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+### 🌟 About Me
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+```html
+I'm a passionate software engineering student enrolled in the ALX Software Engineering Program.
+My journey into tech began with a strong curiosity about how digital products work and how I could build things that solve real-world problems.
 
 ## My Skills 🧠
 
