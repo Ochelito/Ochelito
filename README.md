@@ -23,6 +23,6 @@ attention to detail
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**https://www.linkedin.com/in/idoko-augustine-a65601323/
-- **[Twitter]**https://x.com/OcheIdoko129459
+- **[LinkedIn]** https://www.linkedin.com/in/idoko-augustine-a65601323/
+- **[Twitter]** https://x.com/OcheIdoko129459
 
