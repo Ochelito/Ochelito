@@ -20,7 +20,7 @@ I've worked on projects ranging from business websites and digital platforms to 
 I care about more than simply writing code. I focus on understanding why a product is being built, who it is being built for, and how technology can deliver a reliable and useful experience.
 
 What I Bring
-  
+
 🧩 Product Thinking — Understanding requirements and translating ideas into practical digital solutions
 🏗️ Software Architecture — Designing maintainable and scalable application structures
 🎨 Frontend Engineering — Building responsive, accessible, and intuitive interfaces
