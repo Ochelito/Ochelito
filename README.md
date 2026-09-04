@@ -117,8 +117,7 @@ I'm particularly interested in:
 
 Product Engineering
 Full-Stack Development
-Software Architecture
-Design Systems
+Software ArchitectureDesign Systems
 API Design
 Scalable Web Applications
 Developer Experience
