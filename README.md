@@ -150,8 +150,8 @@ If you're building something interesting, feel free to reach out.
 
 📬 Connect With Me
 Portfolio: https://my-portfolio-three-green-eclxrewix6.vercel.app
-LinkedIn: linkedin.com/in/idoko-augustine-a65601323
+LinkedIn: https://linkedin.com/in/idoko-augustine
 X: https://x.com/DevLit202
-GitHub: github.com/Ochelito
+GitHub: https://github.com/Ochelito
 
 <p align="center"> <strong>Building useful products. Solving real problems. Continuously improving.</strong> </p>
