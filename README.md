@@ -149,6 +149,7 @@ I'm also available for selected freelance and contract projects involving:
 If you're building something interesting, feel free to reach out.
 
 📬 Connect With Me
+
 Portfolio: https://my-portfolio-three-green-eclxrewix6.vercel.app
 
 LinkedIn: https://linkedin.com/in/idoko-augustine
