@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://my-portfolio-three-green-eclxrewix6.vercel.app">Portfolio</a> • <a href="https://www.linkedin.com/in/idoko-augustine-a65601323/">LinkedIn</a> • <a href="https://x.com/Devlit202">X</a> </p>
 
-<h3 👨🏽‍💻 About Me </h3>
+👨🏽‍💻 About Me
 
 I'm a Product Engineer and Full-Stack Developer with around 2 years of hands-on experience designing, developing, and improving web applications.
 
@@ -19,7 +19,7 @@ I've worked on projects ranging from business websites and digital platforms to 
 
 I care about more than simply writing code. I focus on understanding why a product is being built, who it is being built for, and how technology can deliver a reliable and useful experience.
 
-<h2 What I Bring</h2>
+What I Bring
   
 🧩 Product Thinking — Understanding requirements and translating ideas into practical digital solutions
 🏗️ Software Architecture — Designing maintainable and scalable application structures
@@ -31,7 +31,7 @@ I care about more than simply writing code. I focus on understanding why a produ
 🚀 Deployment & Engineering Practices — Working with version control, CI/CD, containers, and cloud platforms
 🤝 Communication & Collaboration — Working effectively with clients, designers, developers, and other stakeholders
   
-<h2 🛠️ Technical Skills</h2>
+🛠️ Technical Skills
 Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind" /> </p>
@@ -56,7 +56,7 @@ Tools & Engineering
 
 Git • GitHub • GitHub Actions • Jenkins • Vercel • Render
 
-<h2 🚀 Selected Projects</h2>
+🚀 Selected Projects
 
 📌 APPlai — Job Application Tracker
 
@@ -103,7 +103,7 @@ Scalable backend architecture
 
 Stack: React • TypeScript • Python • Django • PostgreSQL
 
-<h2 🧠 How I Approach Development</h2>
+🧠 How I Approach Development
 
 I believe good software engineering starts before the first line of code is written.
 
@@ -126,13 +126,13 @@ AI-powered Products
 Automation
 SaaS Products
 
-<h2 📈 Currently Building & Learning</h2>
+📈 Currently Building & Learning
 
 I'm continuously improving my engineering capabilities through real-world projects, experimentation, and deeper exploration of software architecture.
 
 Currently focused on becoming a stronger product-minded engineer who can contribute across the entire product lifecycle—from problem discovery and system design to implementation and deployment.
 
-<h2 🤝 Let's Work Together</h2>
+🤝 Let's Work Together
 
 I'm open to opportunities where I can contribute to meaningful products, collaborate with strong teams, and continue growing as an engineer.
 
@@ -148,7 +148,7 @@ I'm also available for selected freelance and contract projects involving:
 
 If you're building something interesting, feel free to reach out.
 
-<h2 📬 Connect With Me</h2>
+📬 Connect With Me
 Portfolio: https://my-portfolio-three-green-eclxrewix6.vercel.app
 LinkedIn: linkedin.com/in/idoko-augustine-a65601323
 X: https://x.com/DevLit202
