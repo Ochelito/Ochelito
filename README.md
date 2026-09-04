@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://my-portfolio-three-green-eclxrewix6.vercel.app">Portfolio</a> • <a href="https://www.linkedin.com/in/idoko-augustine-a65601323/">LinkedIn</a> • <a href="https://x.com/Devlit202">X</a> </p>
 
-<h2 👨🏽‍💻 About Me</h2>
+<h3 👨🏽‍💻 About Me</h3>
 
 I'm a Product Engineer and Full-Stack Developer with around 2 years of hands-on experience designing, developing, and improving web applications.
 
